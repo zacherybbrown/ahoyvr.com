@@ -5,10 +5,10 @@ body{
     background: -moz-linear-gradient(90deg, rgba(33, 68, 107, 1) 0%, rgba(3, 25, 51, 1) 100%);
     background: linear-gradient(90deg, rgba(33, 68, 107, 1) 0%, rgba(3, 25, 51, 1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#21446B", endColorstr="#031933", GradientType=1);
-    color: #a5e7e4;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
+    color: #a5e7e4;
 }
 h1{
     font-size: 0.5cm;
